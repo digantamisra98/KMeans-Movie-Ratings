@@ -1,6 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/digantamisra98/KMeans-Movie-Ratings/badge.svg?branch=master)](https://coveralls.io/github/digantamisra98/KMeans-Movie-Ratings?branch=master)
-<br>
-
 Summary
 =======
 
